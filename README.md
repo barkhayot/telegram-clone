@@ -33,6 +33,7 @@ localhost:8000
 
 ```
 ### Screenshots
-
-<img src="https://github.com/barkhayot/telegram-clone/blob/main/texed/screen/screen1.png" alt="Markdown Monster icon" style="width:50%" />
-<img src="https://github.com/barkhayot/telegram-clone/blob/main/texed/screen/screen2.png" alt="Markdown Monster icon" style="width:50%" />
+<p float="left">
+  <img src="https://github.com/barkhayot/telegram-clone/blob/main/texed/screen/screen1.png" alt="Markdown Monster icon" style="width:100%" />
+  <img src="https://github.com/barkhayot/telegram-clone/blob/main/texed/screen/screen2.png" alt="Markdown Monster icon" style="width:100%" />
+  </p>
